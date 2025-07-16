@@ -7,6 +7,7 @@ songs = [
     "花占い",
     "終わりなき旅",
     "Starting Over"
+    "彩り"
 ]
 
 selected_song = random.choice(songs)
